@@ -1,8 +1,8 @@
-#Data - Basic-Materials
+# Data - Basic-Materials
 
 It is a project wrote in Python to obtain the historical market or financial data from Basic Materials, and financial instruments (Bonds, Stocks, ETF, etc)
 
-##Requirements
+## Requirements
 The code is using a few libraries
 
 ```
