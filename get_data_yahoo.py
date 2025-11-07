@@ -20,7 +20,6 @@ asset_data = yf.download(
     progress=False
 )
 
-# Format the date index to the desired format
 asset_data.index = asset_data.index.strftime('%Y-%m-%dT%H:%M:%S')
 
 # Save to CSV
